@@ -61,7 +61,8 @@ The dataset contains transaction-level data including:
 - [View Notebook](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_analysis.ipynb)
 
 - Main Raw data set  **CSV**
-- [Raw CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/online_retail.csv)
+- [Raw CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/Desktop/RFM/online_retail.csv)
+- 
 ---
 
 ## 🎯 Key Insights
@@ -82,7 +83,7 @@ The dataset contains transaction-level data including:
 | File | Link |
 - [Jupyter Notebook](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_analysis.ipynb)
 - [Processed CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_customer_segmentation.csv)
-- [Raw CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/online_retail.csv)
+- [Raw CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/Desktop/RFM/online_retail.csv)
 
 
 
