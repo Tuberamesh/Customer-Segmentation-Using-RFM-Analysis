@@ -64,15 +64,15 @@ The dataset contains transaction-level data including:
 - [Raw CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/Desktop/RFM/online_retail.csv)
 
 ---
-
 ## 🎯 Key Insights
 
-- **Champions (26.3% of customers)** generated **£5.9M in revenue** — the highest value segment and top priority for retention and loyalty campaigns
-- **41.1% of customers fall in "Others"** — a mixed group that needs further targeting; personalized re-engagement campaigns could unlock significant hidden revenue
-- **At-Risk customers (6.3%)** were once frequent buyers but have gone inactive — with £431K in past spend, winning them back is a high-ROI opportunity
-- **New Customers (7.4%)** show recent activity but low frequency — ideal targets for onboarding campaigns and cross-selling to increase lifetime value
-- **Loyal Customers (18.9%)** contributed £1.35M — second highest revenue segment, strong candidates for upselling to Champion status
-
+| Segment | Customers | Revenue | Action |
+|---|---|---|---|
+| Champions | 26.3% | £5.9M | Retain & reward |
+| Loyal Customers | 18.9% | £1.35M | Upsell to Champions |
+| Others | 41.1% | £1.04M | Re-engage with campaigns |
+| At Risk | 6.3% | £431K | Win-back campaigns |
+| New Customers | 7.4% | £145K | Onboard & cross-sell |
 ---
 
 ## 🚀 Future Enhancements
@@ -80,12 +80,12 @@ The dataset contains transaction-level data including:
 - Apply clustering algorithms (K-Means) for advanced segmentation
 - Automate analysis pipeline for repeated use
 
----
+---## 📎 Project Files
 
-## 📎 Project Files
 | File | Link |
-- [Jupyter Notebook](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_analysis.ipynb)
-- [Processed CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_customer_segmentation.csv)
+|---|---|
+| Jupyter Notebook | [View](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_analysis.ipynb) |
+| Processed CSV | [View](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_customer_segmentation.csv) |
 - [Raw CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/Desktop/RFM/online_retail.csv)
 
 
