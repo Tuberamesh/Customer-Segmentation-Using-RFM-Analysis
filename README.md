@@ -80,13 +80,14 @@ The dataset contains transaction-level data including:
 - Apply clustering algorithms (K-Means) for advanced segmentation
 - Automate analysis pipeline for repeated use
 
----## 📎 Project Files
+---
+## 📎 Project Files
 
 | File | Link |
 |---|---|
 | Jupyter Notebook | [View](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_analysis.ipynb) |
 | Processed CSV | [View](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/rfm_customer_segmentation.csv) |
-- [Raw CSV](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/Desktop/RFM/online_retail.csv)
+| Raw CSV | [View](https://github.com/Tuberamesh/Customer-Segmentation-Using-RFM-Analysis/blob/main/Desktop/RFM/online_retail.csv) |
 
 
 
