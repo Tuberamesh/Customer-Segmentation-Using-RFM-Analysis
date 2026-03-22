@@ -66,9 +66,12 @@ The dataset contains transaction-level data including:
 ---
 
 ## 🎯 Key Insights
-- Identified high-value and loyal customers for targeted marketing
-- Detected at-risk customers who require retention strategies
-- Provided a structured dataset ready for visualization tools like Tableau or Power BI
+
+- **Champions (26.3% of customers)** generated **£5.9M in revenue** — the highest value segment and top priority for retention and loyalty campaigns
+- **41.1% of customers fall in "Others"** — a mixed group that needs further targeting; personalized re-engagement campaigns could unlock significant hidden revenue
+- **At-Risk customers (6.3%)** were once frequent buyers but have gone inactive — with £431K in past spend, winning them back is a high-ROI opportunity
+- **New Customers (7.4%)** show recent activity but low frequency — ideal targets for onboarding campaigns and cross-selling to increase lifetime value
+- **Loyal Customers (18.9%)** contributed £1.35M — second highest revenue segment, strong candidates for upselling to Champion status
 
 ---
 
